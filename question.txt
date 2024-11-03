@@ -1,0 +1,61 @@
+Tóm tắt ý chính và câu hỏi tiếng Anh cho mỗi tệp PDF:
+
+Tệp 1: "Recipes for Life"
+
+Ý chính: Sách dạy nấu ăn chia sẻ những công thức nấu ăn truyền thống của các cộng đồng di cư tại Guelph, Ontario.
+
+Câu hỏi tiếng Anh: What is the main theme of this cookbook?
+
+Tệp 2: "Cooking Without a Kitchen"
+
+Ý chính: Sách dạy nấu ăn dành cho những người không có bếp. Bao gồm những công thức đơn giản, sử dụng những dụng cụ nhà bếp cơ bản.
+
+Câu hỏi tiếng Anh: What are some of the key cooking appliances this cookbook is focused on?
+
+Tệp 3: "Keep the Beat Recipes: Deliciously Healthy Dinners"
+
+Ý chính: Sách dạy nấu ăn của Viện Tim mạch, Phổi và Máu Quốc gia (NHLBI) với 75 công thức nấu ăn tốt cho sức khỏe tim mạch.
+
+Câu hỏi tiếng Anh: What are some of the nutritional guidelines emphasized in this cookbook?
+
+Tệp 4: "Mountain Breakfast - All Day Along: Western Serbian Mountain Cookbook"
+
+Ý chính: Sách dạy nấu ăn tập trung vào các món ăn truyền thống vùng núi phía Tây của Serbia.
+
+Câu hỏi tiếng Anh: What is the main focus of the project "Mountain Breakfast"?
+
+Tệp 5: "Cooking Without a Kitchen"
+
+Ý chính: Sách dạy nấu ăn dành cho những người không có bếp, được phát triển bởi JF&CS và Project Bread.
+
+Câu hỏi tiếng Anh: What are some of the resources provided in this cookbook for finding healthy recipes?
+
+Tệp 6: "HumanEATies 100 Recipes: By the Faculty of Humanities, University of Pretoria"
+
+Ý chính: Sách dạy nấu ăn được biên soạn bởi các sinh viên và giảng viên của Khoa Nhân văn, Đại học Pretoria.
+
+Câu hỏi tiếng Anh: What is the purpose of creating this cookbook?
+
+Tệp 7: "Cooking for All"
+
+Ý chính: Sách dạy nấu ăn được phát triển bởi Brighter Living Partnership, với sự hỗ trợ của Hội đồng Sefton.
+
+Câu hỏi tiếng Anh: What are some of the health benefits of eating seasonally?
+
+Tệp 8: "Home Chef: Lockdown Recipes"
+
+Ý chính: Sách dạy nấu ăn được biên soạn từ những công thức nấu ăn của người dân Nam Phi trong thời gian giãn cách xã hội do dịch COVID-19.
+
+Câu hỏi tiếng Anh: What inspired the creation of this cookbook?
+
+Tệp 9: "The Community Dish: Recipe Book"
+
+Ý chính: Sách dạy nấu ăn được biên soạn bởi The Open Door Garden to Table, nhằm chia sẻ sự đa dạng của cộng đồng.
+
+Câu hỏi tiếng Anh: What is the main purpose of creating this recipe book?
+
+Tệp 10: "My favourite recipes"
+
+Ý chính: Sách dạy nấu ăn chia sẻ các công thức nấu ăn yêu thích của các giảng viên và nhà nghiên cứu quốc tế tại Đại học Göttingen.
+
+Câu hỏi tiếng Anh: How does the University of Göttingen foster an international spirit among its students and faculty?
